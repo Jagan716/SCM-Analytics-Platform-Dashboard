@@ -1,0 +1,19 @@
+{
+  "avg_supplier_otif_pct": 40.5,
+  "avg_carrier_on_time_pct": 78.8,
+  "active_stockouts": 0,
+  "low_stock_count": 23,
+  "healthy_pct": 98.8,
+  "shortage_risk_skus": 819,
+  "overstock_risk_skus": 486,
+  "total_ordered_qty": 15175282,
+  "total_received_qty": 13541981,
+  "overall_fulfillment_rate_pct": 89.2,
+  "total_open_qty": 1633301,
+  "total_pos": 6000,
+  "total_shipments": 4500,
+  "avg_transit_days": 21.8,
+  "suppliers_below_80_otif": 15,
+  "total_skus_tracked": 120,
+  "total_locations": 18
+}
