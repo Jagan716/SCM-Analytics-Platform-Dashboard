@@ -1,4 +1,6 @@
 # SCM Analytics Platform — Website
+https://scm-analytics-platform-dashboard.vercel.app/
+
 
 Next.js 16 + Tailwind v4 dashboard built on the Gold-layer output of the Databricks
 SCM Analytics Platform pipeline. Verified with a clean production build
